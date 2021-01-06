@@ -6,7 +6,7 @@ Computer vision has become prevalent in our society with its applications spanni
 
 New developments in the neural network field have drastically improved the speed at which these images are processed and the performance of these state-of-the-art visual recognition systems. This course focusses on how to build a convolutional neural network to approach the problem of image recognition and fine-tune the network for optimized performance.
 
-## 
+## Concepts
 - Image and video representation challenges
 - gray scale, RGB, quantization + sampling
 - Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
@@ -15,5 +15,9 @@ New developments in the neural network field have drastically improved the speed
 - Alexnet, Resnet, VGGNet, etc.
 - Visualizing and understanding ConvNets
 
+## Projects
+
 ## Libraries
 Scikit learn, Tensorflow, Keras
+
+
